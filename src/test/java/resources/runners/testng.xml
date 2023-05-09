@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite" verbose="1">
+    <test name="All Test">
+        <classes>
+            <class name="tutorialsninja.com.testsuite.AccountRegisterPageTest"></class>
+            <class name="tutorialsninja.com.testsuite.LaptopAndNoteBookPageTest"></class>
+            <class name="tutorialsninja.com.testsuite.DesktopPageTest"></class>
+            <class name="tutorialsninja.com.testsuite.TopMenuTest"></class>
+            <class name="tutorialsninja.com.testsuite.AccountLoginPageTest"></class>
+        </classes>
+    </test>
+</suite>
